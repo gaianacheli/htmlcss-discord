@@ -103,12 +103,9 @@ li{
 .immagine {
     height: 565px;
     width: 614px;
-   
-    background-size: cover;
     margin-left: 320px;
     float: left;
     margin-bottom: 30px;
-    
 }
 .text {
     height: 565px;
@@ -116,8 +113,6 @@ li{
     float: right;
     margin-right: 320px;
     margin-bottom: 30px;
-   
-    
 }
 .text h1{
     font-size: 56px;
@@ -128,25 +123,31 @@ li{
 }
 .terzo{
     position: relative;
-    
-    margin-top: 30px;
+    height: 600px;
+    margin-top: 300px;
+    background-color: rgba(177, 174, 174, 0.219);
     
 }
 .immagine1{
-    height: 400px;
-    width: 300px;
-    background-color:blue;
+    height: 565px;
+    width: 614px;
     float: right;
     margin-right: 320px;
    
 }
 .text1 {
-    height: 400px;
+    height: 565px;
     width: 400px;
-    background-color: blueviolet;
     margin-left: 320px;
     float: left;
     
+}
+.text1 h1 {
+    font-size: 56px;
+    margin-bottom: 2rem;
+}
+.text1 p {
+    font-size: 30px;
 }
 .quarto {
     position: relative;
