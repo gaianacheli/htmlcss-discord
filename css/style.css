@@ -15,7 +15,7 @@
 }
 .contenitore{
     height: 957px;
-    background-image: url(/img/jumbo.png);
+    background-image: url(../img/jumbo.png);
     background-position: center;
     background-size: cover;
 }
