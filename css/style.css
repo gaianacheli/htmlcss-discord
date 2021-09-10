@@ -52,7 +52,25 @@ li{
    color: black;
    border-radius: 40%;
 }
-
+.presentazione {
+    height: 400px;
+    width: 800px;
+    position: absolute;
+    left: 37%;
+    top: 22%;
+   
+}
+ .presentazione h1 {
+    font-size: 60px;
+    color: white;
+    padding-bottom: 3rem;
+    text-align: center;
+}
+.presentazione p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
 .secondo {
     position: relative;
     height: 400px;
