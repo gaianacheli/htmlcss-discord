@@ -14,8 +14,10 @@
 
 }
 .contenitore{
-    height: 400px;
-    background-color: aqua;
+    height: 957px;
+    background-image: url(/img/jumbo.png);
+    background-position: center;
+    background-size: cover;
 }
 
 #navigator {
