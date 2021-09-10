@@ -3,3 +3,128 @@
     padding: 0;
     box-sizing: border-box;
 }
+.debug > .contenitore {
+    height: 1000px;
+    
+}
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: table;
+
+}
+.contenitore{
+    height: 400px;
+    background-color: aqua;
+}
+
+#navigator {
+   height: 70px; 
+   padding: 1rem;
+   position: relative;
+}
+li{
+    text-align: center;
+    display: inline;
+    
+    position: absolute;
+    
+}
+.logo {
+    float: left;
+    padding-left: 10em;
+}
+
+.secondo {
+    position: relative;
+    height: 400px;
+}
+.immagine {
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    margin-left: 320px;
+    float: left;
+    margin-bottom: 30px;
+    
+}
+.text {
+    height: 400px;
+    width: 300px;
+    background-color: blueviolet;
+    float: right;
+    margin-right: 320px;
+    margin-bottom: 30px;
+   
+    
+}
+.terzo{
+    position: relative;
+    height: 400px;
+    margin-top: 30px;
+    
+}
+.immagine1{
+    height: 400px;
+    width: 300px;
+    background-color:blue;
+    float: right;
+    margin-right: 320px;
+   
+}
+.text1 {
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    margin-left: 320px;
+    float: left;
+    
+}
+.quarto {
+    position: relative;
+    height: 400px;
+    margin-top: 30px;
+    
+}
+.immagine2{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    margin-left: 320px;
+    float: left;
+    margin-bottom: 30px;
+}
+.text2{
+    height: 400px;
+    width: 300px;
+    background-color:blueviolet;
+    float: right;
+    margin-right: 320px;
+    margin-bottom: 30px;
+}
+.quinto {
+    position: relative;
+    height: 200px;
+    margin-top: 30px;
+   
+}
+.intestazione {
+    height: 200px;
+    margin-left: 320px;
+    margin-right: 320px;
+    background-color: darkgrey;
+}
+
+.schermo{
+    height: 600px;
+    margin-left: 320px;
+    margin-right: 320px;
+    background-color: greenyellow;
+
+}
+.scarica {
+    height: 200px;
+    margin-left: 320px;
+    margin-right: 320px;
+    background-color: hotpink;
+}
