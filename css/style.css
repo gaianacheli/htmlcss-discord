@@ -20,21 +20,37 @@
     background-size: cover;
 }
 
-#navigator {
-   height: 70px; 
+nav {
+   height: 90px; 
    padding: 1rem;
    position: relative;
 }
+.menu {
+    height: 90px; 
+    padding: 1rem;
+    position: relative;
+}
+
+
 li{
-    text-align: center;
+    height: 70px;
+    width: 300px;
     display: inline;
-    
-    position: absolute;
+    padding: 1rem;
+    margin-left: 100px;
+    font-size: 22px;
+    color: white;
     
 }
 .logo {
     float: left;
-    padding-left: 10em;
+    padding-left: 320px;
+    size: 3rem;
+}
+.bottone{
+   background-color: white;
+   color: black;
+   border-radius: 40%;
 }
 
 .secondo {
