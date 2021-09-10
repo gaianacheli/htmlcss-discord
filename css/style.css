@@ -61,66 +61,74 @@ li{
    
 }
  .presentazione h1 {
-    font-size: 60px;
+    font-size: 80px;
     color: white;
-    padding-bottom: 3rem;
+    padding-bottom: 4rem;
     text-align: center;
 }
 .presentazione p {
     color: white;
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
 }
 .bottone1 {
     margin-top: 67px;
     position: absolute;
-    top: 60%;
+    top: 100%;
     left: 22%;
-    height: 40px;
+    height: 50px;
     width: 150px;
-    border-radius: 20px;
+    border-radius: 25px;
     border-color: transparent;
     
 }
 .bottone2 {
     margin-top: 67px;
     position: absolute;
-    top: 60%;
+    top: 100%;
     left: 45%;
-    height: 40px;
-    width: 200px;
+    height: 50px;
+    width: 250px;
     color: white;
     background-color: black;
     border-color: black;
-    border-radius: 20px;
+    border-radius: 25px;
 
 }
 .secondo {
+    margin-top: 100px;
     position: relative;
-    height: 400px;
+    height: 600px
 }
 .immagine {
-    height: 400px;
-    width: 400px;
-    background-color: blue;
+    height: 565px;
+    width: 614px;
+   
+    background-size: cover;
     margin-left: 320px;
     float: left;
     margin-bottom: 30px;
     
 }
 .text {
-    height: 400px;
-    width: 300px;
-    background-color: blueviolet;
+    height: 565px;
+    width: 400px;
     float: right;
     margin-right: 320px;
     margin-bottom: 30px;
    
     
 }
+.text h1{
+    font-size: 56px;
+    margin-bottom: 2rem;
+}
+.text p {
+    font-size: 30px;
+}
 .terzo{
     position: relative;
-    height: 400px;
+    
     margin-top: 30px;
     
 }
