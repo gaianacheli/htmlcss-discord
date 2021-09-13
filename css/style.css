@@ -151,14 +151,15 @@ li{
 }
 .quarto {
     position: relative;
-    height: 400px;
+    height:  565px;
     margin-top: 30px;
+   
     
 }
 .immagine2{
     height: 400px;
     width: 400px;
-    background-color: blue;
+    
     margin-left: 320px;
     float: left;
     margin-bottom: 30px;
@@ -166,10 +167,16 @@ li{
 .text2{
     height: 400px;
     width: 300px;
-    background-color:blueviolet;
     float: right;
     margin-right: 320px;
     margin-bottom: 30px;
+}
+.text2 h1 {
+    font-size: 56px;
+    margin-bottom: 2rem;
+}
+.text2 p {
+    font-size: 30px;
 }
 .quinto {
     position: relative;
@@ -177,23 +184,45 @@ li{
     margin-top: 30px;
    
 }
+.background {
+    background-color: rgba(177, 174, 174, 0.219);
+}
 .intestazione {
     height: 200px;
+    margin-top: 400px;
     margin-left: 320px;
     margin-right: 320px;
-    background-color: darkgrey;
+    margin-bottom: 200px;
+    text-align: center;
+    font-size: 30px;
+   
 }
-
+.intestazione h1 {
+    padding-bottom: 2rem;
+}
 .schermo{
     height: 600px;
     margin-left: 320px;
     margin-right: 320px;
-    background-color: greenyellow;
-
+    padding-left: 15%;
 }
+
 .scarica {
-    height: 200px;
+    height: 300px;
     margin-left: 320px;
     margin-right: 320px;
-    background-color: hotpink;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.button {
+    margin-top: 2rem;
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    border-radius: 40px;
+    border-color: transparent;
+    background-color: rgb(0, 132, 255);
+    
 }
