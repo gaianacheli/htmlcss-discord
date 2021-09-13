@@ -32,7 +32,7 @@ nav {
 }
 
 
-li{
+.menu2{
     height: 70px;
     width: 300px;
     display: inline;
@@ -242,26 +242,39 @@ li{
     height: 500px;
     width: 400px;
     float: left;
-    background-color: turquoise;
+    
 
+}
+h3 {
+    color: cornflowerblue;
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-top: 90px;
+
+}
+li {
+    font-size: 30px;
+    list-style-type: none;
+    padding-bottom: 20px;
+    color: white;
 }
 .compagnia {
     height: 500px;
     width: 400px;
     float: left;
-    background-color: tomato;
+   
 }
 .risorse {
     height: 700px;
     width: 400px;
     float: right;
-    background-color: teal;
+    
 }
 .norme {
     height: 500px;
     width: 400px;
     float: right;
-    background-color: yellowgreen;
+    
 }
 
 .linea {
