@@ -226,3 +226,51 @@ li{
     background-color: rgb(0, 132, 255);
     
 }
+.footer {
+    height: 1100px;
+    background-color:rgba(0, 0, 0, 0.733);
+    
+}
+.social {
+    height: 500px;
+    width: 500px;
+    margin-left: 1rem;
+    float: left;
+    background-color: violet;
+}
+.prodotto {
+    height: 500px;
+    width: 400px;
+    float: left;
+    background-color: turquoise;
+
+}
+.compagnia {
+    height: 500px;
+    width: 400px;
+    float: left;
+    background-color: tomato;
+}
+.risorse {
+    height: 700px;
+    width: 400px;
+    float: right;
+    background-color: teal;
+}
+.norme {
+    height: 500px;
+    width: 400px;
+    float: right;
+    background-color: yellowgreen;
+}
+
+.linea {
+    padding-top: 800px;
+    padding-left: 320px;
+    padding-right: 320px;
+}
+hr{
+    width: 1500px;
+    
+    color: white;
+}
