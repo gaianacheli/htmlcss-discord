@@ -45,6 +45,7 @@ nav {
 .logo {
     float: left;
     padding-left: 320px;
+    padding-top: 1rem;
     size: 3rem;
 }
 .bottone{
@@ -233,15 +234,23 @@ nav {
 }
 .social {
     height: 500px;
-    width: 500px;
-    margin-left: 1rem;
+    width: 400px;
+    margin-left: 320px;
     float: left;
-    background-color: violet;
+}
+.lingua {
+    padding-top: 20px;
+    color: white;
+    font-size: 30px;
+}
+.lingua img {
+    height: 25px;
 }
 .prodotto {
     height: 500px;
-    width: 400px;
+    width: 200px;
     float: left;
+    padding-right: 18rem;
     
 
 }
@@ -260,20 +269,21 @@ li {
 }
 .compagnia {
     height: 500px;
-    width: 400px;
+    width: 300px;
     float: left;
    
 }
 .risorse {
     height: 700px;
-    width: 400px;
+    width: 300px;
     float: right;
     
 }
 .norme {
     height: 500px;
-    width: 400px;
+    width: 200px;
     float: right;
+    margin-right: 320px;
     
 }
 
@@ -284,6 +294,40 @@ li {
 }
 hr{
     width: 1500px;
-    
     color: white;
+}
+.speak {
+    color: cornflowerblue;
+    font-size: 60px;
+    padding-top: 70px;
+    padding-right: 2rem;
+}
+.social2 {
+    height: 200px;
+    width: 200px;
+}
+.fab {
+    font-size: 40px;
+    color: white;
+    padding-top: 2rem;
+    padding-right: 2rem;
+}
+.logo2 {
+    margin-top: 3rem;
+    margin-left: 320px;
+    height: 65px;
+    float: left;
+    
+}
+.registrati{
+    margin-top: 3rem;
+    margin-right: 320px;
+    float: right;
+    height: 55px;
+    width: 150px;
+    background-color: cornflowerblue;
+    color: white;
+    border-color: transparent;
+    border-radius: 30px;
+    font-size: 20px;
 }
